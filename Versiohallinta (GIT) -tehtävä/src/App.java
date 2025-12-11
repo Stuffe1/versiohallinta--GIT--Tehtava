@@ -6,6 +6,10 @@ public class App {
 
         System.out.println(luku1 + luku2);
         
+         // Fatimen lisäys
+        int luku3 = 10;
+        System.out.println("Summa uusien lukujen kanssa: " + (luku1 + luku2 + luku3));
+
     
     }
 }
