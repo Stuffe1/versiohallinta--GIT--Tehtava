@@ -8,7 +8,9 @@ public class App {
         
          // Fatimen lisäys
         int luku3 = 10;
-        System.out.println("Summa uusien lukujen kanssa: " + (luku1 + luku2 + luku3));
+        // Rasmuksen lisäys
+        int luku4 = 69;
+        System.out.println("Summa uusien lukujen kanssa: " + (luku1 + luku2 + luku3 + luku4));
 
     
     }
